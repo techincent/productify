@@ -1,6 +1,6 @@
 # Productify
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
+Angular Production-Ready Project Setup. example include Tech, Angular version 12.1.1, Material, Tailwindcss. prettier
 
 ## Development server
 
